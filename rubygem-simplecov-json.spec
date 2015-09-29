@@ -4,7 +4,7 @@
 #
 Name     : rubygem-simplecov-json
 Version  : 0.2
-Release  : 2
+Release  : 3
 URL      : https://rubygems.org/downloads/simplecov-json-0.2.gem
 Source0  : https://rubygems.org/downloads/simplecov-json-0.2.gem
 Summary  : No detailed summary available
